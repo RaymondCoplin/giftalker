@@ -1,0 +1,36 @@
+{
+  "name": "giftalker",
+  "version": "1.0.0",
+  "description": "Javascript library to generate video gif of user actions on your website.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaymondCoplin/giftalker.git"
+  },
+  "keywords": [
+    "GIF",
+    "Screen",
+    "recorder",
+    "screen",
+    "recording",
+    "html2canvas",
+    "gif.js"
+  ],
+  "author": "Raymond Coplin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RaymondCoplin/giftalker/issues"
+  },
+  "homepage": "https://github.com/RaymondCoplin/giftalker#readme",
+  "dependencies": {
+    "gifencoder": "^1.1.0",
+    "html2canvas": "^0.5.0-beta4"
+  }
+}
